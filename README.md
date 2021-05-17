@@ -1,2 +1,2 @@
 # learning
-this is for personal usage
+Personal learning

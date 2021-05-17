@@ -1,2 +1,2 @@
 # learning
-this is for personal login
+this is for personal usage
